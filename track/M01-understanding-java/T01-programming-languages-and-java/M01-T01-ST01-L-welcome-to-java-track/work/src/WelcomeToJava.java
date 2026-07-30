@@ -1,5 +1,5 @@
 public class WelcomeToJava {
     public static void main(String[] args) {
-       //Write your code here
+        System.err.println("welcome to java world");
     }
 }
